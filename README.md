@@ -26,7 +26,7 @@ Projekt vychází z otevřených dat Ministerstva dopravy a reflektuje stav k 1.
 
 ## Spuštění
 
-Pro spuštění stačí otevřít soubor `Bodovani_ridicu.pbix` v Power BI Desktop (doporučena aktuální verze).
+Pro spuštění stačí otevřít soubor `BI_Bodovani_ridicu.pbix` v Power BI Desktop (doporučena aktuální verze).
 
 ## Kontakt
 
