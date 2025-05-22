@@ -11,8 +11,8 @@ Projekt vychází z otevřených dat Ministerstva dopravy a reflektuje stav k 1.
 ## Použité datové zdroje
 
 - [Bodovaní řidiči dle obcí a pohlaví (data.gov.cz)](https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F66003008%2F1471764192)
-- [Cizinci mezi řidiči a zákaz řízení (data.gov.cz)](https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F66003008%2F1476120151)
-- Číselníky území z ČSÚ (Topologická mapa krajů)
+- [Číselníky území (data.gov.cz)](https://data.gov.cz/dataset?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00025593%2F0e136cf01f86f9446b7334c2e4f011bd)
+- Topologická mapa krajů
 
 ## Funkce a prvky dashboardu
 
@@ -20,7 +20,7 @@ Projekt vychází z otevřených dat Ministerstva dopravy a reflektuje stav k 1.
 - **Typy vizuálů**: sloupcové grafy, mapy, koláčové grafy, matice, karty
 - **Slicery**: pohlaví, kraj, město, stav bodů, zákaz řízení
 - **Bookmarks & navigace mezi stránkami**
-- **Measure**: např. `% bodovaných řidičů z celku`, `Pořadí obcí dle rizikovosti`
+- **Measure**: např. `% bodovaných řidičů`, `Pořadí obcí dle rizikovosti`
 - **Kalkulovaný sloupec**: např. `Kategorie bodů`
 - **Datová hierarchie**: Kraj → Obec
 
@@ -30,5 +30,5 @@ Pro spuštění stačí otevřít soubor `Bodovani_ridicu.pbix` v Power BI Deskt
 
 ## Kontakt
 
-📧 [romanabelohoubkova@gmial.com](mailto:romanebelohoubkova@gmialgmail.com)  
+📧 [romanabelohoubkova@gmail.com](mailto:romanabelohoubkova@gmail.com)  
 💬 Discord: romana_belohoubkova
